@@ -15,11 +15,13 @@ A production-style e-commerce web app built with **Node.js + Express**, **Postgr
 ### Secure Checkout — Card & Cash on Delivery
 ![Payment](visuals/Payment_Opt.png)
 
+### Order Confirmation & Detail
+![Order Detail](visuals/Ord_confirm.png)
+
 ### Order List with Status Badges
 ![Orders](visuals/Order-list-detail.png)
 
-### Order Confirmation & Detail
-![Order Detail](visuals/Ord_confirm.png)
+
 
 ---
 
